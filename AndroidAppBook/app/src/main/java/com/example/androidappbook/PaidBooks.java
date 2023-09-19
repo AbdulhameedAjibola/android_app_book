@@ -22,7 +22,21 @@ public class PaidBooks extends AppCompatActivity {
 
         List<PaidBook> books = new ArrayList<>();
 
-        books.add(new Book("Book: The Red Thumb Mark ", "Author: R Austin Freeman ", R.drawable.red12, "https://archive.org/details/redthumbmark00free_0/mode/2up?ref=ol&view=theater"));
+        books.add(new PaidBook("Book: Benefits of coding", "Author: Morgan Housel", R.drawable.book5, "https://archive.org/details/soldierofmanhatt00alts/page/n5/mode/2up?ref=ol&view=theater", "Price: $3500"));
+        books.add(new PaidBook("Book: Benefits of coding", "Author: Morgan Housel", R.drawable.book7, "https://archive.org/details/soldierofmanhatt00alts/page/n5/mode/2up?ref=ol&view=theater", "Price: $3500"));
+        books.add(new PaidBook("Book: Benefits of coding", "Author: Morgan Housel", R.drawable.book17, "https://archive.org/details/soldierofmanhatt00alts/page/n5/mode/2up?ref=ol&view=theater", "Price: $3500"));
+        books.add(new PaidBook("Book: Benefits of coding", "Author: Morgan Housel", R.drawable.book9, "https://archive.org/details/soldierofmanhatt00alts/page/n5/mode/2up?ref=ol&view=theater", "Price: $3500"));
+        books.add(new PaidBook("Book: Benefits of coding", "Author: Morgan Housel", R.drawable.book8, "https://archive.org/details/soldierofmanhatt00alts/page/n5/mode/2up?ref=ol&view=theater", "Price: $3500"));
+        books.add(new PaidBook("Book: Benefits of coding", "Author: Morgan Housel", R.drawable.book18, "https://archive.org/details/soldierofmanhatt00alts/page/n5/mode/2up?ref=ol&view=theater", "Price: $3500"));
+        books.add(new PaidBook("Book: Benefits of coding", "Author: Morgan Housel", R.drawable.book10, "https://archive.org/details/soldierofmanhatt00alts/page/n5/mode/2up?ref=ol&view=theater", "Price: $3500"));
+        books.add(new PaidBook("Book: Benefits of coding", "Author: Morgan Housel", R.drawable.book12, "https://archive.org/details/soldierofmanhatt00alts/page/n5/mode/2up?ref=ol&view=theater", "Price: $3500"));
+        books.add(new PaidBook("Book: Benefits of coding", "Author: Morgan Housel", R.drawable.book15, "https://archive.org/details/soldierofmanhatt00alts/page/n5/mode/2up?ref=ol&view=theater", "Price: $3500"));
+        books.add(new PaidBook("Book: Benefits of coding", "Author: Morgan Housel", R.drawable.book17, "https://archive.org/details/soldierofmanhatt00alts/page/n5/mode/2up?ref=ol&view=theater", "Price: $3500"));
+        books.add(new PaidBook("Book: Benefits of coding", "Author: Morgan Housel", R.drawable.book16, "https://archive.org/details/soldierofmanhatt00alts/page/n5/mode/2up?ref=ol&view=theater", "Price: $3500"));
+        books.add(new PaidBook("Book: Benefits of coding", "Author: Morgan Housel", R.drawable.book14, "https://archive.org/details/soldierofmanhatt00alts/page/n5/mode/2up?ref=ol&view=theater", "Price: $3500"));
+        books.add(new PaidBook("Book: Benefits of coding", "Author: Morgan Housel", R.drawable.book13, "https://archive.org/details/soldierofmanhatt00alts/page/n5/mode/2up?ref=ol&view=theater", "Price: $3500"));
+        books.add(new PaidBook("Book: Benefits of coding", "Author: Morgan Housel", R.drawable.book11, "https://archive.org/details/soldierofmanhatt00alts/page/n5/mode/2up?ref=ol&view=theater", "Price: $3500"));
+        
 
 
 
