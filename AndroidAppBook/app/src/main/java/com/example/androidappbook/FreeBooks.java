@@ -22,15 +22,15 @@ public class FreeBooks extends AppCompatActivity {
         List<Book> books = new ArrayList<>();
 
         books.add(new Book("Book: A Soldier of ManHattan and his Adventures at Ticonderoga and Quebec", "Author: Joseph. A. Altsheler", R.drawable.soldierfree3, "https://archive.org/details/soldierofmanhatt00alts/page/n5/mode/2up?ref=ol&view=theater"));
-        books.add(new Book("Book: Tanglewood Tales ", "Author: Illustrated", R.drawable.tanglewood14, ""));
-        books.add(new Book("Book: Mary WallstoneCraft ", "Author: Falkner", R.drawable.mary15, ""));
-        books.add(new Book("Book: The Red Thumb Mark ", "Author: R Austin Freeman ", R.drawable.red12, ""));
-        books.add(new Book("Book: Essays of Elia ", "Author: Charles Lana ", R.drawable.essays13, ""));
-        books.add(new Book("Book: Herakles ", "Author:Euripedes ", R.drawable.hercles10, ""));
-        books.add(new Book("Book:Mortal Coils ", "Author: Aldous Huxley", R.drawable.aldox9, ""));
-        books.add(new Book("Book: Gentlemen Prefer Blondes", "Author:Anita Loos ", R.drawable.gentlemen8, ""));
-        books.add(new Book("Book: The heart pf Emerson's Journals", "Author: Ralph Waldo Emerson ", R.drawable.emerson7, ""));
-        books.add(new Book("Book:Amalia ", "Author: Jos Marmol", R.drawable.amalia6, ""));
+        books.add(new Book("Book: Tanglewood Tales ", "Author: Illustrated", R.drawable.tanglewood14, "https://archive.org/details/hawthworks08hawtuoft/mode/2up?ref=ol&view=theater"));
+        books.add(new Book("Book: Mary WallstoneCraft ", "Author: Falkner", R.drawable.mary15, "https://archive.org/details/falknernovel00shel/mode/2up?ref=ol&view=theater"));
+        books.add(new Book("Book: The Red Thumb Mark ", "Author: R Austin Freeman ", R.drawable.red12, "https://archive.org/details/redthumbmark00free_0/mode/2up?ref=ol&view=theater"));
+        books.add(new Book("Book: Essays of Elia ", "Author: Charles Lana ", R.drawable.essays13, "https://archive.org/details/worksofcharlesla01lambuoft/mode/2up?ref=ol&view=theater"));
+        books.add(new Book("Book: Herakles ", "Author:Euripedes ", R.drawable.hercles10, "https://archive.org/details/herakles02moegoog/mode/2up?ref=ol&view=theater"));
+        books.add(new Book("Book:Mortal Coils ", "Author: Aldous Huxley", R.drawable.aldox9, "https://archive.org/details/mortalcoils00huxlgoog/mode/2up?ref=ol&view=theater"));
+        books.add(new Book("Book: Gentlemen Prefer Blondes", "Author:Anita Loos ", R.drawable.gentlemen8, "https://archive.org/details/gentlemenpreferb0000unse/mode/2up?ref=ol&view=theater"));
+        books.add(new Book("Book: The heart pf Emerson's Journals", "Author: Ralph Waldo Emerson ", R.drawable.emerson7, "https://archive.org/details/heartofemersonsj00emer/mode/2up?ref=ol&view=theater"));
+        books.add(new Book("Book:Amalia ", "Author: Jos Marmol", R.drawable.amalia6, "https://archive.org/details/amalia00mrgoog/mode/2up?ref=ol&view=theater"));
         books.add(new Book("Book: The Scarlet Letter ", "Author: Nathaniel Hawthorne", R.drawable.scarlet5, "https://archive.org/details/hawthworks03hawtuoft/mode/2up?ref=ol&view=theater"));
 
 
