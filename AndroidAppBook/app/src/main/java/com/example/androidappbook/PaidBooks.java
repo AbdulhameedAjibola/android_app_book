@@ -22,20 +22,20 @@ public class PaidBooks extends AppCompatActivity {
 
         List<PaidBook> books = new ArrayList<>();
 
-        books.add(new PaidBook("Book: Benefits of coding", "Author: Morgan Housel", R.drawable.book5, "https://archive.org/details/soldierofmanhatt00alts/page/n5/mode/2up?ref=ol&view=theater", "Price: $3500"));
-        books.add(new PaidBook("Book: Benefits of coding", "Author: Morgan Housel", R.drawable.book7, "https://archive.org/details/soldierofmanhatt00alts/page/n5/mode/2up?ref=ol&view=theater", "Price: $3500"));
-        books.add(new PaidBook("Book: Benefits of coding", "Author: Morgan Housel", R.drawable.book17, "https://archive.org/details/soldierofmanhatt00alts/page/n5/mode/2up?ref=ol&view=theater", "Price: $3500"));
-        books.add(new PaidBook("Book: Benefits of coding", "Author: Morgan Housel", R.drawable.book9, "https://archive.org/details/soldierofmanhatt00alts/page/n5/mode/2up?ref=ol&view=theater", "Price: $3500"));
-        books.add(new PaidBook("Book: Benefits of coding", "Author: Morgan Housel", R.drawable.book8, "https://archive.org/details/soldierofmanhatt00alts/page/n5/mode/2up?ref=ol&view=theater", "Price: $3500"));
-        books.add(new PaidBook("Book: Benefits of coding", "Author: Morgan Housel", R.drawable.book18, "https://archive.org/details/soldierofmanhatt00alts/page/n5/mode/2up?ref=ol&view=theater", "Price: $3500"));
-        books.add(new PaidBook("Book: Benefits of coding", "Author: Morgan Housel", R.drawable.book10, "https://archive.org/details/soldierofmanhatt00alts/page/n5/mode/2up?ref=ol&view=theater", "Price: $3500"));
-        books.add(new PaidBook("Book: Benefits of coding", "Author: Morgan Housel", R.drawable.book12, "https://archive.org/details/soldierofmanhatt00alts/page/n5/mode/2up?ref=ol&view=theater", "Price: $3500"));
-        books.add(new PaidBook("Book: Benefits of coding", "Author: Morgan Housel", R.drawable.book15, "https://archive.org/details/soldierofmanhatt00alts/page/n5/mode/2up?ref=ol&view=theater", "Price: $3500"));
-        books.add(new PaidBook("Book: Benefits of coding", "Author: Morgan Housel", R.drawable.book17, "https://archive.org/details/soldierofmanhatt00alts/page/n5/mode/2up?ref=ol&view=theater", "Price: $3500"));
-        books.add(new PaidBook("Book: Benefits of coding", "Author: Morgan Housel", R.drawable.book16, "https://archive.org/details/soldierofmanhatt00alts/page/n5/mode/2up?ref=ol&view=theater", "Price: $3500"));
-        books.add(new PaidBook("Book: Benefits of coding", "Author: Morgan Housel", R.drawable.book14, "https://archive.org/details/soldierofmanhatt00alts/page/n5/mode/2up?ref=ol&view=theater", "Price: $3500"));
-        books.add(new PaidBook("Book: Benefits of coding", "Author: Morgan Housel", R.drawable.book13, "https://archive.org/details/soldierofmanhatt00alts/page/n5/mode/2up?ref=ol&view=theater", "Price: $3500"));
-        books.add(new PaidBook("Book: Benefits of coding", "Author: Morgan Housel", R.drawable.book11, "https://archive.org/details/soldierofmanhatt00alts/page/n5/mode/2up?ref=ol&view=theater", "Price: $3500"));
+        books.add(new PaidBook("Book: Benefits of coding", "Author: Morgan Housel", R.drawable.book5, "https://www.konga.com/product/programming-for-the-absolute-beginner-second-edition-by-jerry-lee-6255439", "Price: $3500"));
+        books.add(new PaidBook("Book: Benefits of coding", "Author: Morgan Housel", R.drawable.book7, "https://www.konga.com/product/programming-for-the-absolute-beginner-second-edition-by-jerry-lee-6255439", "Price: $300"));
+        books.add(new PaidBook("Book: Benefits of coding", "Author: Morgan Housel", R.drawable.book17, "https://www.konga.com/product/programming-for-the-absolute-beginner-second-edition-by-jerry-lee-6255439", "Price: $200"));
+        books.add(new PaidBook("Book: Benefits of coding", "Author: Morgan Housel", R.drawable.book9, "https://www.konga.com/product/programming-for-the-absolute-beginner-second-edition-by-jerry-lee-6255439", "Price: $100"));
+        books.add(new PaidBook("Book: Benefits of coding", "Author: Morgan Housel", R.drawable.book8, "https://www.konga.com/product/programming-for-the-absolute-beginner-second-edition-by-jerry-lee-6255439", "Price: $50"));
+        books.add(new PaidBook("Book: Benefits of coding", "Author: Morgan Housel", R.drawable.book18, "https://www.konga.com/product/programming-for-the-absolute-beginner-second-edition-by-jerry-lee-6255439", "Price: $67.99"));
+        books.add(new PaidBook("Book: Benefits of coding", "Author: Morgan Housel", R.drawable.book10, "https://www.konga.com/product/programming-for-the-absolute-beginner-second-edition-by-jerry-lee-6255439", "Price: $34.55"));
+        books.add(new PaidBook("Book: Benefits of coding", "Author: Morgan Housel", R.drawable.book12, "https://www.konga.com/product/programming-for-the-absolute-beginner-second-edition-by-jerry-lee-6255439", "Price: $42.22"));
+        books.add(new PaidBook("Book: Benefits of coding", "Author: Morgan Housel", R.drawable.book15, "https://www.konga.com/product/programming-for-the-absolute-beginner-second-edition-by-jerry-lee-6255439", "Price: $18.50"));
+        books.add(new PaidBook("Book: Benefits of coding", "Author: Morgan Housel", R.drawable.book17, "https://www.konga.com/product/programming-for-the-absolute-beginner-second-edition-by-jerry-lee-6255439", "Price: $30"));
+        books.add(new PaidBook("Book: Benefits of coding", "Author: Morgan Housel", R.drawable.book16, "https://www.konga.com/product/programming-for-the-absolute-beginner-second-edition-by-jerry-lee-6255439", "Price: $40.98"));
+        books.add(new PaidBook("Book: Benefits of coding", "Author: Morgan Housel", R.drawable.book14, "https://www.konga.com/product/programming-for-the-absolute-beginner-second-edition-by-jerry-lee-6255439", "Price: $12.30"));
+        books.add(new PaidBook("Book: Benefits of coding", "Author: Morgan Housel", R.drawable.book13, "https://www.konga.com/product/programming-for-the-absolute-beginner-second-edition-by-jerry-lee-6255439", "Price: $45.78"));
+        books.add(new PaidBook("Book: Benefits of coding", "Author: Morgan Housel", R.drawable.book11, "https://www.konga.com/product/programming-for-the-absolute-beginner-second-edition-by-jerry-lee-6255439", "Price: $40.87"));
         
 
 
