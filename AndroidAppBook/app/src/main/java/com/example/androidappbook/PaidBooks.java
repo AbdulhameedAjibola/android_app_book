@@ -22,7 +22,7 @@ public class PaidBooks extends AppCompatActivity {
 
         List<PaidBook> books = new ArrayList<>();
 
-
+        books.add(new Book("Book: The Red Thumb Mark ", "Author: R Austin Freeman ", R.drawable.red12, "https://archive.org/details/redthumbmark00free_0/mode/2up?ref=ol&view=theater"));
 
 
 
